@@ -6,6 +6,6 @@ As far as I know, there's no way to inject the json data directly into a job as 
 
 Input:
 
-ruby parse_json.rb committer_email pusher_email 
+    ruby parse_json.rb committer_email pusher_email 
 
 Other args to be defined soon. 
